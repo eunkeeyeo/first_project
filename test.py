@@ -6,6 +6,8 @@ import time
 
 tm = time.localtime()
 print(tm.tm_hour)
+
+
 print(tm.tm_mon)
 print(tm.tm_sec)
 
